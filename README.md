@@ -1,5 +1,3 @@
-**Supported versions: 1.18.2+**
-
 The plugin was tested on versions 1.18.2 and 1.19
 
 # How to use
