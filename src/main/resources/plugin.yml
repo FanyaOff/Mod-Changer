@@ -1,0 +1,11 @@
+name: ModeChanger
+version: '${project.version}'
+main: fanya.modechanger.ModeChanger
+api-version: 1.18
+authors: [ Fanya ]
+description: Simple plugin to test subshield tags
+website: https://fan9.ru
+commands:
+  mode:
+    description: Сменить режим игры
+    usage: /mode <creative/survival>
